@@ -3,10 +3,14 @@ layout: page
 title: About
 ---
 
-Hello.
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+의심 가득했던 나는 <br>
+신에게 허구 헛 날 물어봤어 <br>
+내가 꾸는 꿈을 내 능력으로 갚을 수 있냐고<br>
+He said <br>
+내가 다 갚을 테니 넌 한도 없이 꿈을 꾸어라 <br>
 
-**Just write thing that matters..**
 
-Enjoy!
+**Okay ma Jehovah.**
+
+
