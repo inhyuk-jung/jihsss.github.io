@@ -141,7 +141,8 @@ ___
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxkUwF3XFdI" frameborder="0" allowfullscreen></iframe>
 
-유튜브의 동영상에서 **소스 코드**를 누르면 코드가 나옴.
+유튜브의 동영상에서 **소스 코드**를 누르면 코드가 나옴. <br>
+
 ```
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/xxkUwF3XFdI" 
