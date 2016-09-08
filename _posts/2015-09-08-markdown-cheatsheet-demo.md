@@ -154,9 +154,9 @@ frameborder="0" allowfullscreen></iframe>
 ![Minion](http://octodex.github.com/images/minion.png)
 
 아래의 코드와 같이 처리하면 됨. <br>
-```
-![Minion](http://octodex.github.com/images/minion.png)
 
+```
+   ![Minion](http://octodex.github.com/images/minion.png)
 ```
 
 ## 마무리
