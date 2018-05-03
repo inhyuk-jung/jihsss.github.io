@@ -1,171 +1,46 @@
 ---
-title: 마크다운 공부 겸 첫글.
-updated: 2015-09-08 20:00
+title: 시하_개인정보처리방침
+updated: 2018-05-04 00:00
 ---
+1. '시하'는 안드로이드 앱 이용자의 개인정보를 매우 중요하게 생각하며 각별히 주의를 기울여 처리하고 있습니다.
+다음과 같은 목적외에는 사용하지 않습니다.
+– android.permission.READ_PHONE_STATE : 기기의 단말정보를 통한 회원확인 용도 그 외의 어떠한 자료도 수집 및 처리하지 않습니다.
 
-> This is Markdown Cheatsheet Demo for **The Plain**, this Jekyll theme. Please check the raw content of this file for the markdown usage.
+2. 정보 주체의 권리, 의무 및 그 행사방법 이용자는 개인정보 주체로서 다음과 같은 권리를 행사할 수 있습니다.
 
-> 위에것이 원본이고 이를 따라서 마크다운에 대해 **공부**해 볼것입니다. 해석은 철저히 내 기준으로 할 것이니, **절대** 신뢰하지마세요. 사실 해석을 안할수도잇음...
+① 정보주체는 '시하' 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.
+1) 개인정보 열람요구
+2) 오류 등이 있을 경우 정정 요구
+3) 삭제요구
+4) 처리정지 요구
 
+3. 처리하는 개인정보의 항목 작성
+① '시하'는 다음의 개인정보 항목을 처리하고 있습니다.
+1) < 기기의 단말정보를 통한 회원확인 >
+– 필수항목 android.permission.READ_PHONE_STATE
+단순히, 단말정보외에는 아무런 정보도 받지 않기때문에 회원을 확인하기 위한 용도입니다.
 
-## Typography Elements in One
-## #개수에 따라서 글자 크기가 작아집니다. 
+4. 개인정보의 파기
+'시하'(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.
+– 단말정보외에는 아무런 정보도 받지 않기때문에 회원을 확인하기 위한 용도만 따집니다.
+– 위 경우 외에는 어떤 목적으로도 자료를 수집, 처리하지 않습니다.
+– 앱 삭제시 더 이상 위 권한을 사용하지 않습니다.
 
-1~6개까지 갯수가 많아질수록 글자가 작아집니다.
+5. 개인정보의 안정성 확보 조치 '시하'는 개인정보보호법 제29에 따라 다음과 같이 안정성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.
+① 내부관리계획의 수립 및 시행
+– 개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.
+② 개인정보에 대한 접근 제한
+– 개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.
 
-Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. 
-Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
-   
-<br>
-**\*을 두개 써서 감싸면** 굵어지네요.  
-_\_로 감싸면_ 기울임이구요.   
-**_혼합도 됩니다!_**   
-`코드를 강조하려면` `  기호를 쓰면 됩니다.  
-[여기](#) 처럼 하이퍼링크를 걸고 싶으면 \[여기\]\(#\) 요렇게.
- 
-<div class="divider"></div>
+6. 개인정보 보호책임자 작성
+① '시하'는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+▶ 개인정보 보호책임자 및 담당부서
+성명 : 정인혁
+직책 : 대표
+연락처 : jihsss93@gmail.com, 010-9876-1223
 
-## Footnote 각주
+② 정보주체께서는 '시하'의 서비스을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 엘웍스은(는) 정보주체의 문의에 대해 지체없이 답변 및 처리해드릴 것입니다.
 
-Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]   
-각주를 달려면 [^3]. 각주 안에서도 기존의 마크다운이 사용가능합니다.
-
-<div class="divider"></div>
-
-## Blockquote 인용
-
-> > \> 로 시작하면 됩니다. 인용안에 인용도 가능
-
-> Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible. --Francis of Assisi     
-
-**NOTE:** This theme does NOT support nested blockquotes.   
-
-> 두려워하지 말라 내가 너와 함께 함이라 놀라지 말라 나는 네 하나님이 됨이라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라두려워하지 말라 내가 너와 함께 함이라 놀라지 말라 나는 네 하나님이 됨이라 내가 너를 굳세게 하리라 참으로 너를 도와 주리라 참으로 나의 의로운 오른손으로 너를 붙들리라 --이사야 41장 10절    
-
-**NOTE:** 제가 이 블로그를 만드는데 사용한 테마는 인용안에 인용을 지원하지 않기  
-  는 **개뿔 잘됨.**
-
-
-<div class="divider"></div>
-
-## List Items 리스트
-
-1. First order list item
-2. 그냥 1.하면 됩니다.
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-* \*이나 \+ \- 에 의해서도 리스트가 됩니다.
-
-<div class="divider"></div>
-
-## Code Blocks 코드 블럭
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```
-   ```을 이용하여 코드의 시작과 끝에 줄을 바꿔 쓰면 코드블럭이 됩니다. 
-   ```javascript 같이 언어의 이름을 스면 그에 맞게 하이라이팅을 합니다.
-
-```
-
-<div class="divider"></div>
-
-## Table 표
-
-아래 보이는 그대로 치면됩니다...
-
-### Table 1: With Alignment 정렬
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-```
-
-### Table 2: With Typography Elements 요소
-
-Markdown | Less      | Pretty
----      | ---       | ---
-*Still*  | `renders` | **nicely**
-1        | 2         | 3
-
-```
-Markdown | Less      | Pretty
----      | ---       | ---
-*Still*  | `renders` | **nicely**
-1        | 2         | 3
-```
-
-<div class="divider"></div>
-
-## Horizontal Line 가로줄
-
-The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements. In markdown, you can create a `<hr>` with any of the following:
-
-* `___`: three consecutive underscores
-* `---`: three consecutive dashes
-* `***`: three consecutive asterisks
-* 위에거 세개씩 치면 다 줄이됨. 차이점이 잘안보임..   
-<br>
-renders to:
-  
-___
-
----
-
-***
-
-<div class="divider"></div>
-
-## Media 미디어
-
-### YouTube Embedded Iframe 유튜브를 포함한 Iframe
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxkUwF3XFdI" frameborder="0" allowfullscreen></iframe>
-
-유튜브의 동영상에서 **소스 코드**를 누르면 코드가 나옴. <br>
-
-```
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/xxkUwF3XFdI" 
-frameborder="0" allowfullscreen></iframe>
-```
-
-### Image
-
-![Minion](http://octodex.github.com/images/minion.png)
-
-아래의 코드와 같이 처리하면 됨. <br>
-
-```
-   ![Minion](http://octodex.github.com/images/minion.png)
-```
-
-## 마무리
-> 첫 글을 어떤 글을 올릴까 생각해 보다가 그냥 있던 예제 자체를 마크업 공부도 할겸 한글화 해보자는 생각이 들어 시도해 보았다.   
-생각보다 재미있는 경험이었다.   
-사실 조금 더 의미있는 첫글이길 바랬지만, 간단히 올려보았다.   
-(사실 지울지도 모름.)
-
-[^1]: Footnote number one yeah baby!
-[^2]: A footnote you can link to - [click here!](#)
-[^3]: \[^3\]의 형식으로 달면됩니다.
-
+7. 개인정보 처리방침 변경
+① 이 개인정보 처리 방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+이 개인정보 처리방침은 2018년 5월 03일 부터 적용됩니다.
